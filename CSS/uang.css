@@ -1,0 +1,65 @@
+body,html{
+    background: linear-gradient(to right, #446A46, #809A6F);
+}
+
+.navbar{
+    margin-top: 30px;
+    background: #181818 !important;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: #94B49F !important;
+}
+
+.dropdown-menu{
+    background-color: #181818 !important;
+}
+
+.dropdown-menu a{
+    color: #94B49F !important;
+    font-weight: 500;
+}
+
+.dropdown-menu a:hover{
+    background: #698269 !important;
+}
+
+.card-goaltabungan .card-body{
+    background: #3C6255 !important;
+    border: 2px solid #3C6255;
+    color: #FFFFE8 !important;
+}
+
+.card-saldo .card-body{
+    background: #D7E9B9;
+}
+
+.card-pemasukan .card-textpemasukan{
+    background: black;
+}
+
+.penginputan form{
+    margin-top: 25px;
+}
+
+.penginputan form input[type="submit"]{
+    margin-top: 10px;
+    background: #181818;
+    border: 2px solid #181818;
+}
+
+.penginputan form input[type="submit"]:hover{
+    background: #3C6255;
+    border: 2px solid #3C6255;
+}
+
+.penginputan form input[type="text"]{
+    background: #D3E4CD;
+}
+
+.penginputan form input[type="text"]:focus{
+    outline: none;
+    border: none;
+}
+
+

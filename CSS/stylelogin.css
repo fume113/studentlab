@@ -1,0 +1,74 @@
+html, body{
+    height: 100%;
+    background: linear-gradient(to right, #446A46, #809A6F);
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2B3A55;
+}
+
+.login-form{
+    width: 380px;
+    height: 450px;
+    padding: 20px;
+    background-color: #181818!important;
+    border-radius: 10px !important;
+}
+
+.card-text .form-label{
+    font-weight: 600;
+    color: #379237;
+}
+
+input[type="text"],
+input[type="password"]{
+    background-color: #F3EFE0 !important;
+    color: #000;
+    border: 2px solid #F3EFE0;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus{
+    outline: none;
+    border: none;
+    color: #000;
+    margin: 0;
+}
+
+.card-title{
+    font-weight: 900;
+    font-size: 38px;
+    color: #379237;
+}
+
+.btn-login{
+    border: 2px solid green !important;
+    background: green;
+    padding: 7px;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.btn-login:hover{
+    background: #285430;
+    border: #285430;
+}
+
+.btn-regis{
+    border: 2px solid #144272 !important;
+    background: #144272;
+    padding: 7px;
+    border-radius: 20px;
+    color: #FFf;
+}
+
+.btn-regis:hover{
+    background: #2B3A55;
+    border: #2B3A55; 
+}

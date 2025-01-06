@@ -1,0 +1,21 @@
+.navbar{
+    margin-top: 30px;
+    background: #181818 !important;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: #94B49F !important;
+}
+
+.dropdown-menu{
+    background-color: #181818 !important;
+}
+
+.dropdown-menu a{
+    color: #94B49F !important;
+    font-weight: 500;
+}
+
+.dropdown-menu a:hover{
+    background: #698269 !important;
+}

@@ -1,0 +1,39 @@
+.dl {
+  margin-top: 30px;
+}
+
+.dltgs {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  margin-top: 15px;
+}
+
+.skamis {
+  display: flex;
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.skamis .card {
+  margin-left: 15px;
+}
+
+.jminggu {
+  display: flex;
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.jminggu .card {
+  margin-left: 15px;
+}
+
+.garis {
+  border: 1px solid #820000;
+}

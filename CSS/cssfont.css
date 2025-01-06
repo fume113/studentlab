@@ -1,0 +1,53 @@
+body,html {
+  font-family: "Inter", sans-serif;
+  background: linear-gradient(to right, #446A46, #809A6F);
+  position: relative;
+}
+
+.card-body{
+  background: #94B49F !important;
+  border-radius: 27px;
+}
+
+.card-body .card-text{
+  text-align: center;
+}
+
+.card-body .card-text-stdnt{
+  margin-top: 120px;
+  text-align: center;
+  bottom: 0;
+}
+
+.btn-icon .btn{
+  width: 140px;
+  height: 140px;
+}
+
+.btn-icon .btn:hover{
+  background: #94B49F;
+}
+
+.main .btn-logout{
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  right: 0;
+  margin-right: 45px;
+}
+
+.main .btn-logout .btn{
+  background: #5F7161;
+  padding: 20px;
+  width: 100%;
+  color: #fff;
+  border: 2px solid #5F7161;
+  top: 10px;
+}
+
+.btn-logout .btn:hover{
+  background: #6D8B74;
+  border: #6D8B74;
+  color: #fff;
+  transition: ease-in-out all;
+}
